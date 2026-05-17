@@ -22,9 +22,9 @@
   ·
   <a href="https://github.com/chowdhuryyy">GitHub</a>
   ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ifty-chowdhuryy/)">LinkedIn</a>
   ·
-  <a href="https://leetcode.com/">LeetCode</a>
+  <a href="[https://leetcode.com/](https://leetcode.com/u/nblues399/)">LeetCode</a>
 </p>
 
 ---
@@ -62,17 +62,3 @@ Previously **Software Engineer** at **Binary Quest** (Apr 2023 – Mar 2026): Od
 | **Image Gallery** | AI image search with facial recognition (AWS Lambda, Rekognition) |
 | **Pet Hostel Management** | Odoo booking, calendar, and operational dashboards |
 
----
-
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chowdhuryyy&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowdhuryyy&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
-
-<p align="left">
-  <sub>Replace the LinkedIn and LeetCode URLs above with your real profile links when ready.</sub>
-</p>
